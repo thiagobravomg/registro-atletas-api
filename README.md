@@ -23,6 +23,9 @@
 <h3> Preview: </h3>
 <ul>
   <li>![api1](https://user-images.githubusercontent.com/53627206/154844854-8e88a08e-dbeb-471b-bac9-300ee52d10e4.png)</li>
+  <img src="https://user-images.githubusercontent.com/53627206/154844854-8e88a08e-dbeb-471b-bac9-300ee52d10e4.png">  
   <li>![api2](https://user-images.githubusercontent.com/53627206/154844860-ef8ca7ca-7365-4771-9ba2-cc06c9b25978.png)</li>
+  <img src="https://user-images.githubusercontent.com/53627206/154844860-ef8ca7ca-7365-4771-9ba2-cc06c9b25978.png">  
   <li>![api3](https://user-images.githubusercontent.com/53627206/154844863-c1dadaa2-0bc6-4f30-b9ff-23bfaea6fc77.png)</li>
+  <img src="https://user-images.githubusercontent.com/53627206/154844863-c1dadaa2-0bc6-4f30-b9ff-23bfaea6fc77.png"> 
 </ul>
